@@ -1,8 +1,10 @@
-﻿<Application
-    x:Class="CloudGamingApplication.UWP.App"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:CloudGamingApplication.UWP"
-    RequestedTheme="Light">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CloudGamingApplication.App">
+	<Application.Resources>
 
+		<!-- Application resource dictionary -->
+
+	</Application.Resources>
 </Application>
