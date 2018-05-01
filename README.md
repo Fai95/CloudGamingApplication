@@ -1,2 +1,0 @@
-# CloudGamingApplication
-cloud gaming
